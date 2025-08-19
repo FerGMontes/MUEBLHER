@@ -5,3 +5,5 @@ Pagina web para empresa mueblher
 # PRIMERA VERSION PARA PROPUESTA CON CLIENTE
 
 Diseño basado en el curso de maquetacion con boostrap
+
+No es la propuesta final
